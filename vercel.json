@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://ftyuykufmqtavdulvzct.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_3HUcfgWL4g3qRXdnwKv5Ww_1NLHRepe"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_SUPABASE_URL": "https://ftyuykufmqtavdulvzct.supabase.co",
+      "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_3HUcfgWL4g3qRXdnwKv5Ww_1NLHRepe"
+    }
+  }
+}
